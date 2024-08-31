@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="player_size">20sp</dimen>
+    <dimen name="image_width">40sp</dimen>
+    <dimen name="image_length">40sp</dimen>
+    <dimen name="dimension_size">24sp</dimen>
+    <dimen name="button_size">20sp</dimen>
+</resources>
